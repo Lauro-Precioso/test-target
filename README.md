@@ -1,2 +1,2 @@
 # test-target
-repositório para os testes para vaga de estágio da Target
+Repositório com os testes realizados para vaga de estágio da Target Sistemas
